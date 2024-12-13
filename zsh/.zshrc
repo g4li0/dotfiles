@@ -78,7 +78,7 @@ zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 zstyle ':fzf-tab:complete:ls:*' fzf-preview 'ls --color $realpath'
 
 # Aliases
-alias ls='lsd'
+alias ls='~/.cargo/bin/lsd'
 
 
 # Shell Integrations
